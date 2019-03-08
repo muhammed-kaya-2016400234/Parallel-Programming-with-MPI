@@ -12,7 +12,7 @@ The program is executed with following commands:
 
 -mpic++ -g main.cpp -o main -std=c++11
 
--mpiexec -n <number of processor> main <input file> <output file> <beta value> <pi value>
+-mpiexec -n \<number of processor\> main \<input file\> \<output file\> \<beta value\> \<pi value\>
 
 
   
